@@ -1,0 +1,3 @@
+openai       # last stable release supporting Python 3.8
+python-dotenv
+tqdm        # optional (nice progress bar if needed later)
